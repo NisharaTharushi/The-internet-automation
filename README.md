@@ -1,6 +1,6 @@
 ## 🔧 Selenium Test Automation for "The Internet" Website ##
 
-# 🌐 Project Overview
+### 🌐 Project Overview
 
 This project contains **automated test scripts written in Python using Selenium WebDriver** for the website:
 
@@ -10,7 +10,7 @@ This project contains **automated test scripts written in Python using Selenium 
 
 ---
 
-## ✅ What This Project Covers
+### ✅ What This Project Covers
 
 I created **individual Python test scripts using basic Selenium for **each feature/page** on the site. These scripts cover:
 
